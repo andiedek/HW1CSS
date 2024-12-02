@@ -1,0 +1,37 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 110%;
+}
+
+header{
+    background-color: darkseagreen;
+}
+
+nav{
+    background-color:lightsteelblue;
+    
+}
+
+main{
+    background-color:darksalmon;
+    font-size: 150%;
+}
+
+footer{
+    background-color: aquamarine;
+}
+
+li{
+    display:inline-block;
+    width: 30%;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(16, 63, 151);
+}
+
+p {
+    line-height: 50px;
+}
